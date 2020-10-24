@@ -8,7 +8,7 @@
 
 ## I've worked with... 💻
 
-![Python](https://img.shields.io/badge/Python-v3.7-blue) ![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=yellowgreen) ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue) ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue) 
+![Python](https://img.shields.io/badge/Python-v3.7-blue) ![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=yellowgreen) ![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=green) ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue) ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=red) ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=yellow) ![React](https://img.shields.io/static/v1?label=&message=React&color=blue) 
 
 
 ## Where can you find me?
