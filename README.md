@@ -1,6 +1,6 @@
 # Hi! Lucas Gabriel here (a.k.a. Xexa) 👋
 
-🎓 Graduated at Advertising and currently studying to become a Fullstack Developer
+🎓 Graduated at Advertising but fell in love with Web Development
 
 🐼 I love Python Pandas and Real Pandas as well.
 
