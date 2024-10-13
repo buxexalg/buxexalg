@@ -1,8 +1,6 @@
 # Hi! Lucas Gabriel here (a.k.a. Xexa) 👋
 
-🎓 Graduated at Advertising but fell in love with Web Development
-
-🐼 I love Python Pandas and Real Pandas as well.
+🎓 Graduated at Advertising who fell in love with Web Development
 
 👹 Hit me up if you also love MMORPG's
 
